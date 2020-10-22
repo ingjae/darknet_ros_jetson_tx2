@@ -10,13 +10,6 @@
 
 ## 1.SSH key 
 
-```
-참고 URL
-https://confluence.atlassian.com/bitbucket/set-up-an-ssh-key-728138079.htm
-
-뒷부분에서 bitbucket 필요없이 git hub에서 처리한다.
-```
----
 
 >ssh-keygen
 
